@@ -16,7 +16,7 @@ function App() {
 
   const bgStyle = {
    // backgroundImage:'url(/fondo${numberBg}.jpg)' 
-   backgroundImage:'url(fondo3.jpg)'
+   backgroundImage:`url(/fondo${numberBg}.jpg)`
   }
 
   return (
